@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa00c620-1631-4ae4-acfc-249b87b764c3" name="Changes" comment="Third commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions_Methods/ChangeValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions_Methods/Function_Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions_Methods/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions_Methods/Passing_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions_Methods/String_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions_Methods/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions_Methods/SwapTwoNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch_Statement/Day_example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch_Statement/Nested_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch_Statement/Switch_fruit_example.java" afterDir="false" />
+    <list default="true" id="fa00c620-1631-4ae4-acfc-249b87b764c3" name="Changes" comment="new code">
+      <change afterPath="$PROJECT_DIR$/src/Functions_Methods/Armstrong_num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions_Methods/Prime_Num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,21 +36,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/Pavilion/IdeaProjects/DSA/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Pavilion/IdeaProjects/DSA/src/Main.java&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Prime_Num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions_Methods.Prime_Num" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Functions_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Prime_Num" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -108,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735836885613</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new code">
+      <option name="closed" value="true" />
+      <created>1735936345684</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735936345684</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +146,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit" />
     <MESSAGE value="Third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third commit" />
+    <MESSAGE value="new code" />
+    <option name="LAST_COMMIT_MESSAGE" value="new code" />
   </component>
 </project>
