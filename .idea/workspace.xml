@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa00c620-1631-4ae4-acfc-249b87b764c3" name="Changes" comment="new code">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ColNotFixed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MultiDimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MultiDimensionalArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/PassinginFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linear_Search/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linear_Search/FindMinNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linear_Search/Linear_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linear_Search/MaxWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linear_Search/SearchIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linear_Search/SearchInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linear_Search/SearchInStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -123,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736072793012</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new code">
+      <option name="closed" value="true" />
+      <created>1736529044929</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736529044929</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new code">
+      <option name="closed" value="true" />
+      <created>1736529066258</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736529066258</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,20 +170,5 @@
     <MESSAGE value="Third commit" />
     <MESSAGE value="new code" />
     <option name="LAST_COMMIT_MESSAGE" value="new code" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Example.java</url>
-          <line>5</line>
-          <properties class="Example" method="fib">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
