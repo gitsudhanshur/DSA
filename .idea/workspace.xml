@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa00c620-1631-4ae4-acfc-249b87b764c3" name="Changes" comment="new code">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/Cyclic_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Question6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Question7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Question8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Performance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/PrettyPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/SB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
