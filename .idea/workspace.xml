@@ -5,24 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa00c620-1631-4ae4-acfc-249b87b764c3" name="Changes" comment="new code">
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Question5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Question6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Question7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Question8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Comparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Performance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/PrettyPrinting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/SB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibonacci_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Message_Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/NumberProgramRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Numbers_Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Print_1_to_n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Print_n_to_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern/Question9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/Question9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +192,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737773682585</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new code">
+      <option name="closed" value="true" />
+      <created>1740566203646</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740566203648</updated>
+    </task>
+    <task id="LOCAL-00016" summary="new code">
+      <option name="closed" value="true" />
+      <created>1740566242996</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1740566242996</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,5 +228,16 @@
     <MESSAGE value="Third commit" />
     <MESSAGE value="new code" />
     <option name="LAST_COMMIT_MESSAGE" value="new code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/Print_1_to_n.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
