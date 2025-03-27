@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa00c620-1631-4ae4-acfc-249b87b764c3" name="Changes" comment="new code">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Concept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/CountZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/DigitProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/DigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/No_of_Steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum_n_to_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Arrays/Linear_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Arrays/Sorted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -217,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743003013260</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="new code">
+      <option name="closed" value="true" />
+      <created>1743095502018</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1743095502018</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
