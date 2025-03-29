@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa00c620-1631-4ae4-acfc-249b87b764c3" name="Changes" comment="new code">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Arrays/Rotated_Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Bubble_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Pattern/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Pattern/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Selection_Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Arrays/Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Arrays/Linear_Search.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
