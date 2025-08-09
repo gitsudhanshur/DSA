@@ -11,12 +11,12 @@ public class Linear_Search {
 //        findAllIndex(arr, 4, 0);
 //        System.out.println(list);
 
-//        ArrayList<Integer> list = new ArrayList<>();
-//        ArrayList<Integer> ans = findAllIndex(arr, 4, 0, list);
-//        System.out.println(ans);
-//        System.out.println(list);
+        ArrayList<Integer> list = new ArrayList<>();
+        ArrayList<Integer> ans = findAllIndex(arr, 4, 0, list);
+        System.out.println(ans);
+        System.out.println(list);
 
-        System.out.println(findAllIndex2(arr, 4, 0));
+//        System.out.println(findAllIndex2(arr, 4, 0));
     }
 
     static boolean find(int[] arr, int target, int index) {

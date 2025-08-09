@@ -5,15 +5,15 @@ public class Reverse {
         System.out.println(rev2(9576));
     }
 
-    static int sum = 0;
-    static void rev1(int n) {
-        if (n == 0) {
-            return;
-        }
-        int rem = n % 10;
-        sum = sum * 10 + rem;
-        rev1(n/10);
-    }
+//    static int sum = 0;
+//    static void rev1(int n) {
+//        if (n == 0) {
+//            return;
+//        }
+//        int rem = n % 10;
+//        sum = sum * 10 + rem;
+//        rev1(n/10);
+//    }
 
     static int rev2(int n) {
         // sometimes you might need some additional variables in the argument
