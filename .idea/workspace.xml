@@ -5,28 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa00c620-1631-4ae4-acfc-249b87b764c3" name="Changes" comment="new code">
-      <change afterPath="$PROJECT_DIR$/src/OOPS/FractionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/StudentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/arrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sorting/MergeSortInPlace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Strings/Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Strings/Subset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Strings/skipCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Strings/skipString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Strings/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Strings/PhonePad.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/example2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/example3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditionals_and_Loops/Fibonacci_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conditionals_and_Loops/Fibonacci_numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Arrays/Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Arrays/Linear_Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Arrays/Rotated_Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Arrays/Rotated_Binary_Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/NumberProgramRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/NumberProgramRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Print_1_to_n.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Print_1_to_n.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Selection_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Selection_Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743250920661</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="new code">
+      <option name="closed" value="true" />
+      <created>1754750169365</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1754750169365</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
