@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa00c620-1631-4ae4-acfc-249b87b764c3" name="Changes" comment="new code">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Strings/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Strings/PhonePad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview_Preparation/LongestSubstringWithoutRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview_Preparation/RotateArrayByKSteps.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/example2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/example3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -246,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754750169365</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="new code">
+      <option name="closed" value="true" />
+      <created>1755381238440</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1755381238440</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
